@@ -1,0 +1,9 @@
+.collection {
+    border: 5px solid #582706;
+    overflow: hidden;
+    margin: 1.0rem  1.0rem ;
+    position: relative;
+    border-radius: 30px;
+    background-color: rgb(248, 248, 248);
+    padding: 10px;
+}
